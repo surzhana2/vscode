@@ -7,8 +7,6 @@ using namespace std;
 
 int main()
 {
-   
-
     //Вычисление значения функции
     double x0;
 
